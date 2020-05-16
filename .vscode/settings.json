@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "cu.h": "c",
-        "t1.h": "c",
-        "stdio.h": "c",
-        "circularbuffer.h": "c",
-        "random": "c"
-    }
-}
